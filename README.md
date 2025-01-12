@@ -5,3 +5,5 @@ MCU board : Lolin D32
 
 IDE : ESP-IDF (vscode)  
 [API Reference](https://docs.espressif.com/projects/esp-idf/en/v4.3/esp32/api-reference/index.html)
+
+코드가 좀 더러워요; 시간날 때 정리하겠습니당
